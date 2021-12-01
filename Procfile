@@ -1,2 +1,2 @@
-worker: main.php
-web: main.php
+worker: php -m main
+web: php -m main
